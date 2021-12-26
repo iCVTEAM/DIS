@@ -29,3 +29,8 @@ Please remember to cite us if u find this useful : )
 }
 ```
 
+------
+
+## License
+
+Please check our License files.
