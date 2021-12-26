@@ -17,7 +17,7 @@ Download [model](http://cvteam.net/projects/2021/Gard/dataset_split.zip).  and a
 run command "python func_2.py"
 
 
-### Citations:
+## Citations:
 
 Please remember to cite us if u find this useful : )
 
