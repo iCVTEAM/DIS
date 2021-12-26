@@ -12,7 +12,7 @@ TensorFlow, 1 NVIDIA-1080TI. More details can be found in paper.
 
 ## Easy Start:
 
-Download [model](http://cvteam.net/projects/2021/Gard/dataset_split.zip).  and add the folder into the root folder.
+Download [model](https://pan.baidu.com/s/16QqouP0gLuibJS7z1hItww)(code:4oey).  and add the folder into the root folder.
 
 run command "python func_2.py"
 
